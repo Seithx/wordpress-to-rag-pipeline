@@ -337,7 +337,7 @@ requirements.txt
 
 ## Author
 
-**Made by [Asaf Lecht](https://www.linkedin.com/in/asaflecht/)**
+**Made by [Asaf Lecht / אסף לכט](https://www.linkedin.com/in/asaflecht/)**
 
 - **LinkedIn:** [linkedin.com/in/asaflecht](https://www.linkedin.com/in/asaflecht/)
 - **Email:** asaflecht@gmail.com
