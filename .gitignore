@@ -1,0 +1,34 @@
+# Data (never commit raw content)
+html_raw/
+downloaded_html/
+md_output/
+bundled/
+*.zip
+*.rar
+
+# State files
+*_state.json
+*_progress.json
+*_manifest.json
+*_checkpoint.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs
+*.log
+*_log.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
